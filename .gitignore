@@ -72,3 +72,7 @@ sysinfo.txt
 # GIMP project files
 *.xcf
 *.xcf.meta
+
+# Client files
+
+/Client/
